@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "value": 40,
+      "heading": "Laptops"
+    },
+    {
+      "value": 20,
+      "heading": "Mobiles"
+    },
+    {
+      "value": 10,
+      "heading": "Jeans"
+    }
+  ]
+}
